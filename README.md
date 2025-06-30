@@ -50,7 +50,7 @@ A modern, elegant, and intuitive scheduling tool that helps groups quickly find 
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/when2meet-better.git
+git clone https://github.com/Methasit-Pun/when2meet-but-better.git
 cd when2meet-better
 
 # Install dependencies
